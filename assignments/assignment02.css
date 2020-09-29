@@ -1,4 +1,6 @@
-body{background-color: sky blue}
+body{
+background-color: lightblue;
+}
 
 .stripey tr:nth-child(even) {
   background-color: gray;
