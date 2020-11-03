@@ -1,4 +1,4 @@
-/* -------------------------------
+ -------------------------------
 Functions in this app:
 
 clubDistanceList.html
@@ -22,7 +22,7 @@ clubDistanceEntry.html
   appendTapEntryButtons()
     updateStats()
 
---------------------------------- */
+--------------------------------- 
 
 
 // ----- Functions (clubDistanceList.html) -----
